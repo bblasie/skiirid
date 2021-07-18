@@ -1,0 +1,28 @@
+List of all News Sites we'll begin with.
+
+
+- London England - BBC news - bbc.com/news/world
+- New York City - The new york times - nytimes.com/section/world
+- New York - Buzzfeed world - buzzfeednews.com/section/world
+- Qatar - Al Jazeera - aljazeera.com
+- United States - Defence Blog - defense-blog.com
+- United Kingdom - E-International Relations - e-ir.info/category/blogs
+- India - Global Issues - globalissues.org
+- United States - The Cipher Brief - thecipherbrief.com
+- New York - Yahoo News World - yahoo.com/news/World
+- San Francisco - Reddit World News - reddit.com/r/worldnews
+- WorldNewsSuperFast.com - worldnewssuperfast.blogspot.com
+- Atlanta - CNN - edition.cnn.com/world
+- BBC - bbc.com
+- New Delhi - Times of India World - timesofindia.indiatimes.com/
+- England - The Guardian World News - theguardian.com/world
+- Washington - Washington Post World - washingtonpost.com/world
+-  Russian - RT News - rt.com/news
+- India - NDTV World News - ndtv.com/world-News
+- Washington - NPR:National Public Radio World - npr.org/sections/world
+- New York - ABC News International - abcnews.go.com/international
+- New York - CBS News World - cbsnews.com/world
+
+
+
+- en.wikipedia.org/wiki/Main_page
